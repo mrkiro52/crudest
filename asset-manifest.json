@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/crudest/static/css/main.3d300877.css",
+    "main.css": "/crudest/static/css/main.a0d3d95a.css",
     "main.js": "/crudest/static/js/main.f1cc32ab.js",
     "static/js/453.1eba5e9c.chunk.js": "/crudest/static/js/453.1eba5e9c.chunk.js",
+    "static/media/SF-Pro-Display-Semibold.otf": "/crudest/static/media/SF-Pro-Display-Semibold.037dc63930459813f575.otf",
+    "static/media/SF-Pro-Display-Medium.otf": "/crudest/static/media/SF-Pro-Display-Medium.b85d841dacb040b84951.otf",
+    "static/media/SF-Pro-Display-Bold.otf": "/crudest/static/media/SF-Pro-Display-Bold.b1f4d2c69fa808ebca12.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/crudest/static/media/SF-Pro-Display-Regular.d1f5e6e16dd4f75c3950.otf",
     "index.html": "/crudest/index.html",
-    "main.3d300877.css.map": "/crudest/static/css/main.3d300877.css.map",
+    "main.a0d3d95a.css.map": "/crudest/static/css/main.a0d3d95a.css.map",
     "main.f1cc32ab.js.map": "/crudest/static/js/main.f1cc32ab.js.map",
     "453.1eba5e9c.chunk.js.map": "/crudest/static/js/453.1eba5e9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d300877.css",
+    "static/css/main.a0d3d95a.css",
     "static/js/main.f1cc32ab.js"
   ]
 }
