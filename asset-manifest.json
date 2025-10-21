@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crudest/static/css/main.3d300877.css",
+    "main.js": "/crudest/static/js/main.0c47ae15.js",
+    "static/js/453.1eba5e9c.chunk.js": "/crudest/static/js/453.1eba5e9c.chunk.js",
+    "index.html": "/crudest/index.html",
+    "main.3d300877.css.map": "/crudest/static/css/main.3d300877.css.map",
+    "main.0c47ae15.js.map": "/crudest/static/js/main.0c47ae15.js.map",
+    "453.1eba5e9c.chunk.js.map": "/crudest/static/js/453.1eba5e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d300877.css",
+    "static/js/main.0c47ae15.js"
+  ]
+}
